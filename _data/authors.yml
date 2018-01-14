@@ -32,7 +32,7 @@ isme2n:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+     instagram:       kim_fe
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -58,7 +58,7 @@ isme2n:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:statkim7578@yonsei.ac.kr
-    rss:             https://statkim7578.github.io/feed.xml
+    # rss:             https://statkim7578.github.io/feed.xml
 
 # Another author
 mdo:
