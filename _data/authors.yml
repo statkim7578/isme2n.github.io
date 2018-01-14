@@ -22,7 +22,7 @@ author:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-     facebook:         profile.php?id=100015590584518&ref=bookmarks
+     facebook:         'profile.php?id=100015590584518&ref=bookmarks'
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
