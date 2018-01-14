@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Tip
-slug: tip
-category: tip
+title: Statistics
+slug: stat
+category: study
 menu: false
 order: 1
 ---
