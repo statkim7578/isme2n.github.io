@@ -32,7 +32,7 @@ author:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-     instagram:       kim_fe
+    # instagram:         kim_fe
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -46,7 +46,7 @@ author:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          statkim7578
+    github:            statkim7578
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -57,7 +57,7 @@ author:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:statkim7578@yonsei.ac.kr
+    email:             mailto:statkim7578@yonsei.ac.kr
     # rss:             https://statkim7578.github.io/feed.xml
 
 # Another author
