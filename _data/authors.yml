@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 isme2n:
-  name:              aiden min
-  email:             zooqzqz@gmail.com
+  name:              Chul Kim
+  email:             statkim7578@yonsei.ac.kr
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -47,7 +47,7 @@ isme2n:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          isme2n
+    github:          statkim7578
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -58,7 +58,7 @@ isme2n:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:zooqzqz@gmail.com
+    email:           mailto:statkim7578@yonsei.ac.kr
     rss:             https://isme2n.github.io/feed.xml
 
 # Another author
