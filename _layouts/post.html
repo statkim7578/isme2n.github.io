@@ -1,6 +1,9 @@
 ---
 layout: base
 ---
+{% if page.use_math %}
+  {% include mathjax_support %} 
+{% endif %}
 
 {% include post.html post=page link_title=false %}
 
