@@ -1,8 +1,20 @@
 ---
 layout: base
 ---
-{% include post.html post=page link_title=false %}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 
-{% include about.html %}
+<header>
+	{% include post.html post=page link_title=false %}
 
-{% include related.html post=page %}
+	{% include about.html %}
+
+	{% include related.html post=page %}
+</header>
