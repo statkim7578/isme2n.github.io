@@ -1,15 +1,26 @@
 ---
 layout: base
 ---
-<script type="text/x-mathjax-config">
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"> </script>
+
+
+<script type="text/x-mathjax-config"> 
   MathJax.Hub.Config({
     tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
+	   inlineMath: [['$','$'], ['$$','$$']],
+	               processEscapes: true },
+	jax: ["input/TeX", "output/SVG"],
+	menuSettings : {
+	zoom : "Double-Click" ,
+	mpContext : true ,
+	mpMouse : true 
+	},
+	errorSettings : { message : [ "[잘못된 수식을 넣었습니다] " ] }
+	}); 
 </script>
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+
+
 
 <header>
 	{% include post.html post=page link_title=false %}
@@ -18,3 +29,7 @@ layout: base
 
 	{% include related.html post=page %}
 </header>
+
+
+
+
