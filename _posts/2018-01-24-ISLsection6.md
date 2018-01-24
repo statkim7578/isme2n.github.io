@@ -6,8 +6,7 @@ categories: study
 tags: ml
 ---
 
-\(
-
+\\(
 \def\ddd{\cdots}
 \def\vsum{\sum\limits}
 \def\ttt{\therefore}
@@ -35,8 +34,7 @@ tags: ml
 \def\ns{\varnothing}
 \def\t{\times}
 \def\l{\lambda}
-
-\)
+\\)
 
 
 
