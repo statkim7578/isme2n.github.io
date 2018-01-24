@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [ISL Study] Section 6
+title: 테스트테스트
 date: 2018-01-24 13:57:00
 categories: study
 tags: ml
@@ -37,4 +37,8 @@ tags: ml
 \def\l{\lambda}
 
 \)
+
+
+
+가나다라마바사
 
